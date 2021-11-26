@@ -1,0 +1,16 @@
+# > General
+DOMAIN-KEYWORD,adservice,REJECT
+
+# > Apple
+DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
+DOMAIN-SUFFIX,ads.internal.unity3d.com,REJECT
+DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
+DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
+
+# > Google
+HOST-SUFFIX,doubleclick.net,REJECT
+HOST-SUFFIX,googleadservices.com,REJECT
+HOST-SUFFIX,googleadsserving.cn,REJECT
+HOST-SUFFIX,googlesyndication.com,REJECT
+HOST-SUFFIX,googletagservices.com,REJECT
+HOST,ads.youtube.com,REJECT
