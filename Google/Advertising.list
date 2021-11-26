@@ -1,9 +1,6 @@
 # NAME: Advertising
 # IP-CIDR: 256
 # IP6-CIDR: 1
-HOST,advgoogle.com,Advertising
-HOST,email-google.com,Advertising
-HOST,feedburner.google.com,Advertising
 HOST,google-analitics.com,Advertising
 HOST,google-analyze.cn,Advertising
 HOST,google-pagerank.net,Advertising
@@ -14,6 +11,9 @@ HOST,googleplay.validcheats.com,Advertising
 HOST,googleplaycards.dlcodes.com,Advertising
 HOST,googleplus.party,Advertising
 HOST,googlesgo.com,Advertising
+HOST,advgoogle.com,Advertising
+HOST,email-google.com,Advertising
+HOST,feedburner.google.com,Advertising
 HOST,gstaticadssl.l.google.com,Advertising
 HOST,imgpop.googlecode.com,Advertising
 HOST,mygooglemy.com,Advertising
