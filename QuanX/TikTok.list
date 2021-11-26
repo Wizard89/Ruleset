@@ -1,0 +1,20 @@
+# NAME: TikTok
+# UPDATED: 2021-11-25 17:41:53
+# HOST-SUFFIX: 9
+# USER-AGENT: 1
+# HOST-KEYWORD: 4
+# TOTAL: 14
+HOST-SUFFIX,amemv.com,TikTok
+HOST-SUFFIX,byteoversea.com,TikTok
+HOST-SUFFIX,ibytedtos.com,TikTok
+HOST-SUFFIX,ibyteimg.com,TikTok
+HOST-SUFFIX,ipstatp.com,TikTok
+HOST-SUFFIX,muscdn.com,TikTok
+HOST-SUFFIX,sgpstatp.com,TikTok
+HOST-SUFFIX,snssdk.com,TikTok
+HOST-SUFFIX,tik-tokapi.com,TikTok
+HOST-KEYWORD,-tiktokcdn-com,TikTok
+HOST-KEYWORD,musical.ly,TikTok
+HOST-KEYWORD,tiktok,TikTok
+HOST-KEYWORD,tiktokv,TikTok
+USER-AGENT,TikTok*,TikTok
