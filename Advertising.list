@@ -9,8 +9,8 @@ HOST-SUFFIX,googleadsserving.cn,Advertising
 HOST-SUFFIX,googlesyndication.com,Advertising
 HOST-SUFFIX,googletagservices.com,Advertising
 IP-CIDR,63.80.2.14/32,Advertising
-IP-CIDR,74.125.170.106/32,Advertising
 IP-CIDR,74.125.170.39/32,Advertising
+IP-CIDR,74.125.170.106/32,Advertising
 IP-CIDR,173.194.167.104/32,Advertising
 IP-CIDR,173.194.167.105/32,Advertising
 IP-CIDR,203.208.39.225/32,Advertising
