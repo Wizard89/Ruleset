@@ -1,6 +1,3 @@
-# > General
-HOST-KEYWORD,adservice,Advertising
-
 # > Google
 HOST,ads.youtube.com,Advertising
 HOST-SUFFIX,doubleclick.net,Advertising
@@ -8,6 +5,7 @@ HOST-SUFFIX,googleadservices.com,Advertising
 HOST-SUFFIX,googleadsserving.cn,Advertising
 HOST-SUFFIX,googlesyndication.com,Advertising
 HOST-SUFFIX,googletagservices.com,Advertising
+HOST-KEYWORD,adservice,Advertising
 IP-CIDR,63.80.2.14/32,Advertising
 IP-CIDR,74.125.170.39/32,Advertising
 IP-CIDR,74.125.170.106/32,Advertising
