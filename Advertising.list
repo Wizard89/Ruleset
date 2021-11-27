@@ -1,5 +1,6 @@
 # > Google
 HOST,ads.youtube.com,Advertising
+HOST-SUFFIX,youtube.local,Advertising
 HOST-SUFFIX,doubleclick.net,Advertising
 HOST-SUFFIX,googleadservices.com,Advertising
 HOST-SUFFIX,googleadsserving.cn,Advertising
