@@ -2,6 +2,15 @@
 # > General
 HOST-KEYWORD,adservice,Advertising
 
+# > Apple
+HOST-SUFFIX,iadsdk.apple.com,Advertising
+HOST-SUFFIX,ads.internal.unity3d.com,Advertising
+HOST-SUFFIX,ads.prd.ie.internal.unity3d.com,Advertising
+HOST-SUFFIX,unityads.unity3d.com,Advertising
+
+# > Alibaba
+HOST,tunion-api.m.taobao.com,Advertising
+
 # > Google
 HOST,ads.youtube.com,Advertising
 HOST-SUFFIX,doubleclick.net,Advertising
