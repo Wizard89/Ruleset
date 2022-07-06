@@ -1,8 +1,10 @@
 # NAME: WeChat
-# HOST: 5
+# UPDATED: 2022-06-30 22:56:10
+# HOST: 6
 # IP-CIDR: 9
-# TOTAL: 14
+# TOTAL: 15
 HOST,dl.wechat.com,WeChat
+HOST,sgilinkshort.wechat.com,WeChat
 HOST,sglong.wechat.com,WeChat
 HOST,sgminorshort.wechat.com,WeChat
 HOST,sgshort.wechat.com,WeChat
