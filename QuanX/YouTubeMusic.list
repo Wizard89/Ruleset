@@ -1,6 +1,10 @@
 # NAME: YouTubeMusic
-# UPDATED: 2021-11-25 17:41:53
-# USER-AGENT: 2
-# TOTAL: 2
+# UPDATED: 2022-06-23 17:32:16
+# HOST: 1
+# USER-AGENT: 4
+# TOTAL: 5
+HOST,music.youtube.com,YouTubeMusic
+USER-AGENT,*YouTubeMusic*,YouTubeMusic
+USER-AGENT,*com.google.ios.youtubemusic*,YouTubeMusic
 USER-AGENT,YouTubeMusic*,YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,YouTubeMusic
