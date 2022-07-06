@@ -1,9 +1,10 @@
 # NAME: Twitter
-# UPDATED: 2021-11-25 17:41:53
-# HOST-SUFFIX: 12
+# UPDATED: 2022-06-23 17:32:40
 # HOST-KEYWORD: 1
+# HOST-SUFFIX: 18
 # IP-CIDR: 8
-# TOTAL: 21
+# TOTAL: 27
+HOST-SUFFIX,ads-twitter.com,Twitter
 HOST-SUFFIX,periscope.tv,Twitter
 HOST-SUFFIX,pscp.tv,Twitter
 HOST-SUFFIX,t.co,Twitter
@@ -13,6 +14,11 @@ HOST-SUFFIX,twimg.co,Twitter
 HOST-SUFFIX,twimg.com,Twitter
 HOST-SUFFIX,twimg.org,Twitter
 HOST-SUFFIX,twitpic.com,Twitter
+HOST-SUFFIX,twitter.com,Twitter
+HOST-SUFFIX,twitter.jp,Twitter
+HOST-SUFFIX,twitterinc.com,Twitter
+HOST-SUFFIX,twitteroauth.com,Twitter
+HOST-SUFFIX,twitterstat.us,Twitter
 HOST-SUFFIX,twtrdns.net,Twitter
 HOST-SUFFIX,twttr.com,Twitter
 HOST-SUFFIX,vine.co,Twitter
